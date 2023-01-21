@@ -43,6 +43,8 @@ http://159.75.85.63:5679/cctv4k.php
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1,CCTV4k
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IAS
+#EXTINF:-1,CCTV4k 50fps
+http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 #EXTINF:-1,咪咕v6
 http://[2409:8087:5c00:10:5::157]/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 #EXTINF:-1,CCTV17
