@@ -47,18 +47,20 @@ http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 rtsp://112.111.36.140/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
 #EXTINF:-1,CCTV8k
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1,CCTV8k
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1,凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1,凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1,台视
-http://23.237.10.66:16344
+#EXTINF:-1,台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,民视
-http://23.237.10.66:16334
+rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,爱上4K
