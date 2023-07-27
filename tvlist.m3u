@@ -69,6 +69,8 @@ http://r.jdshipin.com/62WM7
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,民视
 rtmp://119.81.124.89/sat/tv051
+#EXTINF:-1,民视新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690470948/ei/xDXCZIeRBaio1d8P_--9EA/ip/150.230.98.170/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/tx/24453782/txs/24453782%2C24453783/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Ul2Sq4g-A-BCBzuaUdB4iIAWyw-M_Kk5JUPtXX51ffspZtEoygXCf_E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C51000023/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKPvgCQYgIMu1mGhBc770e6b7pFYMCs1Rlz8rR1HdvygCIBySivBloNElzakqgpp3IYG4Ec53AE0vzZifspQTin2V/file/index.m3u8
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,CCTV17
