@@ -62,7 +62,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1,凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1,央视台球
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+https://epg.pw/stream/d0181d304015a71d6d0da5afeda14286a03c63d62ab4bce6f2c7088dd377d429.m3u8
 #EXTINF:-1,五星体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1,NHK World Japan
@@ -70,7 +70,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1,台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+https://epg.pw/stream/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8
 #EXTINF:-1,CCTV17
 rtsp://112.111.36.140/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
 #EXTINF:-1,爱上4K
