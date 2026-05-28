@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 group-title="Polsat",Polsat HD
+http://193.24.244.60:1001/udp/239.254.2.1:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat 2 HD
+http://193.24.244.60:1001/udp/239.254.2.2:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Film HD
+http://193.24.244.60:1001/udp/239.254.2.3:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat News HD
+http://193.24.244.60:1001/udp/239.254.2.4:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Sport News HD
+http://193.24.244.60:1001/udp/239.254.2.5:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Play HD
+http://193.24.244.60:1001/udp/239.254.2.6:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Cafe HD
+http://193.24.244.60:1001/udp/239.254.2.7:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Sport HD
+http://193.24.244.60:1001/udp/239.254.2.8:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Sport Extra HD
+http://193.24.244.60:1001/udp/239.254.2.9:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Music HD
+http://193.24.244.60:1001/udp/239.254.2.11:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat
+http://193.24.244.60:1001/udp/239.254.2.12:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat News 2
+http://193.24.244.60:1001/udp/239.254.2.16:6060.ts
+#EXTINF:-1 group-title="Polsat",Super Polsat
+http://193.24.244.60:1001/udp/239.254.2.26:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Sport Fight HD
+http://193.24.244.60:1001/udp/239.254.2.29:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Doku HD
+http://193.24.244.60:1001/udp/239.254.2.30:6060.ts
+#EXTINF:-1 group-title="Polsat",Super Polsat HD
+http://193.24.244.60:1001/udp/239.254.2.35:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Rodzina HD
+http://193.24.244.60:1001/udp/239.254.2.42:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Games
+http://193.24.244.60:1001/udp/239.254.2.43:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat Seriale HD
+http://193.24.244.60:1001/udp/239.254.2.45:6060.ts
+#EXTINF:-1 group-title="Polsat",Polsat News Polityka
+http://193.24.244.60:1001/udp/239.254.2.61:6060.ts
+#EXTINF:-1 group-title="TVP",TVP1 HD
+http://193.24.244.60:1001/udp/239.254.3.12:6060.ts
+#EXTINF:-1 group-title="TVP",TVP2 HD
+http://193.24.244.60:1001/udp/239.254.3.13:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Polonia
+http://193.24.244.60:1001/udp/239.254.3.3:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Polonia HD
+http://193.24.244.60:1001/udp/239.254.3.35:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Rozrywka
+http://193.24.244.60:1001/udp/239.254.3.4:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Kultura
+http://193.24.244.60:1001/udp/239.254.3.5:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Kultura HD
+http://193.24.244.60:1001/udp/239.254.3.33:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Historia
+http://193.24.244.60:1001/udp/239.254.3.6:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Sport HD
+http://193.24.244.60:1001/udp/239.254.3.15:6060.ts
+#EXTINF:-1 group-title="TVP",TVP ABC
+http://193.24.244.60:1001/udp/239.254.3.11:6060.ts
+#EXTINF:-1 group-title="TVP",TVP ABC HD
+http://193.24.244.60:1001/udp/239.254.3.37:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Nauka
+http://193.24.244.60:1001/udp/239.254.3.38:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Kobieta HD
+http://193.24.244.60:1001/udp/239.254.3.40:6060.ts
+#EXTINF:-1 group-title="TVP",TVP Info HD
+http://193.24.244.60:1001/udp/239.254.3.32:6060.ts
+#EXTINF:-1 group-title="TVP",TVP World
+http://193.24.244.60:1001/udp/239.254.1.130:6060.ts
+#EXTINF:-1 group-title="TVP",BELSAT TV
+http://193.24.244.60:1001/udp/239.254.3.9:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Warszawa
+http://193.24.244.60:1001/udp/239.254.3.16:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Gdansk
+http://193.24.244.60:1001/udp/239.254.3.17:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Szczecin
+http://193.24.244.60:1001/udp/239.254.3.18:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Poznan
+http://193.24.244.60:1001/udp/239.254.3.19:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Bialystok
+http://193.24.244.60:1001/udp/239.254.3.20:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Olsztyn
+http://193.24.244.60:1001/udp/239.254.3.21:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Bydgoszcz
+http://193.24.244.60:1001/udp/239.254.3.22:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Gorzow
+http://193.24.244.60:1001/udp/239.254.3.23:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Lublin
+http://193.24.244.60:1001/udp/239.254.3.24:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Rzeszow
+http://193.24.244.60:1001/udp/239.254.3.25:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Wroclaw
+http://193.24.244.60:1001/udp/239.254.3.26:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Krakow
+http://193.24.244.60:1001/udp/239.254.3.27:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Opole
+http://193.24.244.60:1001/udp/239.254.3.28:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Kielce
+http://193.24.244.60:1001/udp/239.254.3.29:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Lodz
+http://193.24.244.60:1001/udp/239.254.3.30:6060.ts
+#EXTINF:-1 group-title="TVP",TVP3 Katowice
+http://193.24.244.60:1001/udp/239.254.3.31:6060.ts
+#EXTINF:-1 group-title="TVN",TVN
+http://193.24.244.60:1001/udp/239.254.3.51:6060.ts
+#EXTINF:-1 group-title="TVN",TVN 7
+http://193.24.244.60:1001/udp/239.254.3.52:6060.ts
+#EXTINF:-1 group-title="TVN",TVN24
+http://193.24.244.60:1001/udp/239.254.3.53:6060.ts
+#EXTINF:-1 group-title="TVN",TVN 24 BiS
+http://193.24.244.60:1001/udp/239.254.3.57:6060.ts
+#EXTINF:-1 group-title="TVN",TVN 24 BiS HD
+http://193.24.244.60:1001/udp/239.254.3.68:6060.ts
+#EXTINF:-1 group-title="TVN",TVN Turbo
+http://193.24.244.60:1001/udp/239.254.3.55:6060.ts
+#EXTINF:-1 group-title="TVN",TVN Style
+http://193.24.244.60:1001/udp/239.254.3.56:6060.ts
+#EXTINF:-1 group-title="TVN",TTV
+http://193.24.244.60:1001/udp/239.254.3.65:6060.ts
+#EXTINF:-1 group-title="TVN",TVC
+http://193.24.244.60:1001/udp/239.254.3.71:6060.ts
+#EXTINF:-1 group-title="CANAL+",Ale kino Plus HD
+http://193.24.244.60:1001/udp/239.254.1.9:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus DOMO HD
+http://193.24.244.60:1001/udp/239.254.1.10:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus NOW
+http://193.24.244.60:1001/udp/239.254.1.95:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus Sport 2 HD
+http://193.24.244.60:1001/udp/239.254.1.8:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus Sport 3 HD
+http://193.24.244.60:1001/udp/239.254.1.163:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus Sport 4 HD
+http://193.24.244.60:1001/udp/239.254.1.242:6060.ts
+#EXTINF:-1 group-title="CANAL+",CANAL Plus Sport 5
+http://193.24.244.60:1001/udp/239.254.1.15:6060.ts
+#EXTINF:-1 group-title="Sport",FightBox HD
+http://193.24.244.60:1001/udp/239.254.2.230:6060.ts
+#EXTINF:-1 group-title="Sport",XTREME TV HD
+http://193.24.244.60:1001/udp/239.254.1.106:6060.ts
+#EXTINF:-1 group-title="Muzyka",4Fun TV
+http://193.24.244.60:1001/udp/239.254.2.100:6060.ts
+#EXTINF:-1 group-title="Muzyka",4Fun Kids
+http://193.24.244.60:1001/udp/239.254.2.101:6060.ts
+#EXTINF:-1 group-title="Muzyka",4Fun Dance
+http://193.24.244.60:1001/udp/239.254.2.102:6060.ts
+#EXTINF:-1 group-title="Muzyka",Disco Polo Music
+http://193.24.244.60:1001/udp/239.254.2.23:6060.ts
+#EXTINF:-1 group-title="Muzyka",Polo TV HD
+http://193.24.244.60:1001/udp/239.254.2.44:6060.ts
+#EXTINF:-1 group-title="Muzyka",Nuta TV HD
+http://193.24.244.60:1001/udp/239.254.3.106:6060.ts
+#EXTINF:-1 group-title="Muzyka",NUTA GOLD
+http://193.24.244.60:1001/udp/239.254.3.111:6060.ts
+#EXTINF:-1 group-title="Muzyka",Junior Music HD
+http://193.24.244.60:1001/udp/239.254.3.112:6060.ts
+#EXTINF:-1 group-title="Film",Kino Polska HD
+http://193.24.244.60:1001/udp/239.254.2.217:6060.ts
+#EXTINF:-1 group-title="Film",Stopklatka TV HD
+http://193.24.244.60:1001/udp/239.254.2.222:6060.ts
+#EXTINF:-1 group-title="Film",Stopklatka TV
+http://193.24.244.60:1001/udp/239.254.2.223:6060.ts
+#EXTINF:-1 group-title="Dokument",Planete Plus HD
+http://193.24.244.60:1001/udp/239.254.1.12:6060.ts
+#EXTINF:-1 group-title="Dzieci",MINIMINI Plus HD
+http://193.24.244.60:1001/udp/239.254.1.16:6060.ts
+#EXTINF:-1 group-title="Dzieci",teleTOON Plus HD
+http://193.24.244.60:1001/udp/239.254.1.11:6060.ts
+#EXTINF:-1 group-title="Dzieci",TopKids HD
+http://193.24.244.60:1001/udp/239.254.3.108:6060.ts
+#EXTINF:-1 group-title="Informacje",Echo24 HD
+http://193.24.244.60:1001/udp/239.254.1.171:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV4 HD
+http://193.24.244.60:1001/udp/239.254.2.10:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV4
+http://193.24.244.60:1001/udp/239.254.2.21:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV6
+http://193.24.244.60:1001/udp/239.254.2.25:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV6 HD
+http://193.24.244.60:1001/udp/239.254.2.34:6060.ts
+#EXTINF:-1 group-title="Ogolne",Metro TV HD
+http://193.24.244.60:1001/udp/239.254.2.198:6060.ts
+#EXTINF:-1 group-title="Ogolne",Metro TV
+http://193.24.244.60:1001/udp/239.254.2.199:6060.ts
+#EXTINF:-1 group-title="Ogolne",WP HD
+http://193.24.244.60:1001/udp/239.254.2.206:6060.ts
+#EXTINF:-1 group-title="Ogolne",WP
+http://193.24.244.60:1001/udp/239.254.2.207:6060.ts
+#EXTINF:-1 group-title="Ogolne",Zoom TV HD
+http://193.24.244.60:1001/udp/239.254.2.220:6060.ts
+#EXTINF:-1 group-title="Ogolne",Zoom TV
+http://193.24.244.60:1001/udp/239.254.2.221:6060.ts
+#EXTINF:-1 group-title="Ogolne",HGTV
+http://193.24.244.60:1001/udp/239.254.3.54:6060.ts
+#EXTINF:-1 group-title="Ogolne",HGTV HD
+http://193.24.244.60:1001/udp/239.254.3.67:6060.ts
+#EXTINF:-1 group-title="Ogolne",PowerTV HD
+http://193.24.244.60:1001/udp/239.254.3.102:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 1.201
+http://193.24.244.60:1001/udp/239.254.1.201:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.58
+http://193.24.244.60:1001/udp/239.254.3.58:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.59
+http://193.24.244.60:1001/udp/239.254.3.59:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.60
+http://193.24.244.60:1001/udp/239.254.3.60:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.61
+http://193.24.244.60:1001/udp/239.254.3.61:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.62
+http://193.24.244.60:1001/udp/239.254.3.62:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.63
+http://193.24.244.60:1001/udp/239.254.3.63:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.66
+http://193.24.244.60:1001/udp/239.254.3.66:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.69
+http://193.24.244.60:1001/udp/239.254.3.69:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.70
+http://193.24.244.60:1001/udp/239.254.3.70:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.114
+http://193.24.244.60:1001/udp/239.254.3.114:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 3.121
+http://193.24.244.60:1001/udp/239.254.3.121:6060.ts
