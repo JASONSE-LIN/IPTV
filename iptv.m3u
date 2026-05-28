@@ -221,3 +221,81 @@ http://193.24.244.60:1001/udp/239.254.3.70:6060.ts
 http://193.24.244.60:1001/udp/239.254.3.114:6060.ts
 #EXTINF:-1 group-title="Ogolne",CH 3.121
 http://193.24.244.60:1001/udp/239.254.3.121:6060.ts
+#EXTINF:-1 group-title="Ogolne",Lubelska TV HD
+http://193.24.244.60:1001/udp/239.254.4.20:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV Okazje
+http://193.24.244.60:1001/udp/239.254.4.30:6060.ts
+#EXTINF:-1 group-title="TVN",Animal Planet HD
+http://193.24.244.60:1001/udp/239.254.4.51:6060.ts
+#EXTINF:-1 group-title="TVN",Discovery Channel HD
+http://193.24.244.60:1001/udp/239.254.4.52:6060.ts
+#EXTINF:-1 group-title="TVN",Discovery Historia
+http://193.24.244.60:1001/udp/239.254.4.53:6060.ts
+#EXTINF:-1 group-title="TVN",Discovery Science HD
+http://193.24.244.60:1001/udp/239.254.4.54:6060.ts
+#EXTINF:-1 group-title="TVN",Discovery Turbo Xtra HD
+http://193.24.244.60:1001/udp/239.254.4.55:6060.ts
+#EXTINF:-1 group-title="TVN",TLC HD
+http://193.24.244.60:1001/udp/239.254.4.56:6060.ts
+#EXTINF:-1 group-title="TVN",ID HD
+http://193.24.244.60:1001/udp/239.254.4.57:6060.ts
+#EXTINF:-1 group-title="Sport",Eurosport 1 HD
+http://193.24.244.60:1001/udp/239.254.4.59:6060.ts
+#EXTINF:-1 group-title="Sport",Eurosport 2 HD
+http://193.24.244.60:1001/udp/239.254.4.60:6060.ts
+#EXTINF:-1 group-title="TVN",Discovery Life HD
+http://193.24.244.60:1001/udp/239.254.4.61:6060.ts
+#EXTINF:-1 group-title="Ogolne",Tele5 HD
+http://193.24.244.60:1001/udp/239.254.4.101:6060.ts
+#EXTINF:-1 group-title="Ogolne",Tele5
+http://193.24.244.60:1001/udp/239.254.4.104:6060.ts
+#EXTINF:-1 group-title="Ogolne",Polonia 1 HD
+http://193.24.244.60:1001/udp/239.254.4.108:6060.ts
+#EXTINF:-1 group-title="Ogolne",Puls HD
+http://193.24.244.60:1001/udp/239.254.4.121:6060.ts
+#EXTINF:-1 group-title="Ogolne",Puls 2 HD
+http://193.24.244.60:1001/udp/239.254.4.122:6060.ts
+#EXTINF:-1 group-title="Ogolne",Puls SD
+http://193.24.244.60:1001/udp/239.254.4.123:6060.ts
+#EXTINF:-1 group-title="Ogolne",Puls 2 SD
+http://193.24.244.60:1001/udp/239.254.4.124:6060.ts
+#EXTINF:-1 group-title="Ogolne",Studiomed TV
+http://193.24.244.60:1001/udp/239.254.4.150:6060.ts
+#EXTINF:-1 group-title="Ogolne",Extasy 4K
+http://193.24.244.60:1001/udp/239.254.4.197:6060.ts
+#EXTINF:-1 group-title="Ogolne",TVS HD
+http://193.24.244.60:1001/udp/239.254.4.209:6060.ts
+#EXTINF:-1 group-title="Informacje",TV Republika HD
+http://193.24.244.60:1001/udp/239.254.4.211:6060.ts
+#EXTINF:-1 group-title="Sport",Eleven Sports 4
+http://193.24.244.60:1001/udp/239.254.4.216:6060.ts
+#EXTINF:-1 group-title="Dokument",BBC Earth HD
+http://193.24.244.60:1001/udp/239.254.4.217:6060.ts
+#EXTINF:-1 group-title="Dokument",BBC Brit HD
+http://193.24.244.60:1001/udp/239.254.4.218:6060.ts
+#EXTINF:-1 group-title="Sport",Eleven Sports 3
+http://193.24.244.60:1001/udp/239.254.4.219:6060.ts
+#EXTINF:-1 group-title="Sport",Eleven Sports 2
+http://193.24.244.60:1001/udp/239.254.4.220:6060.ts
+#EXTINF:-1 group-title="Sport",Eleven Sports 1
+http://193.24.244.60:1001/udp/239.254.4.221:6060.ts
+#EXTINF:-1 group-title="Ogolne",Playboy
+http://193.24.244.60:1001/udp/239.254.4.227:6060.ts
+#EXTINF:-1 group-title="Dzieci",Baby TV
+http://193.24.244.60:1001/udp/239.254.4.228:6060.ts
+#EXTINF:-1 group-title="Dzieci",BBC Cbeebies
+http://193.24.244.60:1001/udp/239.254.4.231:6060.ts
+#EXTINF:-1 group-title="Ogolne",TVS
+http://193.24.244.60:1001/udp/239.254.4.236:6060.ts
+#EXTINF:-1 group-title="Muzyka",Music Box Polska
+http://193.24.244.60:1001/udp/239.254.4.237:6060.ts
+#EXTINF:-1 group-title="Ogolne",TV Trwam
+http://193.24.244.60:1001/udp/239.254.4.243:6060.ts
+#EXTINF:-1 group-title="Dokument",BBC Lifestyle HD
+http://193.24.244.60:1001/udp/239.254.4.246:6060.ts
+#EXTINF:-1 group-title="Informacje",France 24 FR HD
+http://193.24.244.60:1001/udp/239.254.4.249:6060.ts
+#EXTINF:-1 group-title="Informacje",France 24 EN HD
+http://193.24.244.60:1001/udp/239.254.4.250:6060.ts
+#EXTINF:-1 group-title="Ogolne",GOD TV
+http://193.24.244.60:1001/udp/239.254.4.253:6060.ts
