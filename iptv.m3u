@@ -299,3 +299,97 @@ http://193.24.244.60:1001/udp/239.254.4.249:6060.ts
 http://193.24.244.60:1001/udp/239.254.4.250:6060.ts
 #EXTINF:-1 group-title="Ogolne",GOD TV
 http://193.24.244.60:1001/udp/239.254.4.253:6060.ts
+#EXTINF:-1 group-title="Film",AXN Black
+http://193.24.244.60:1001/udp/239.254.5.3:6060.ts
+#EXTINF:-1 group-title="Ogolne",FokusTV HD
+http://193.24.244.60:1001/udp/239.254.5.21:6060.ts
+#EXTINF:-1 group-title="Muzyka",EskaTV HD
+http://193.24.244.60:1001/udp/239.254.5.22:6060.ts
+#EXTINF:-1 group-title="Muzyka",EskaTV extra HD
+http://193.24.244.60:1001/udp/239.254.5.23:6060.ts
+#EXTINF:-1 group-title="Ogolne",NowaTV HD
+http://193.24.244.60:1001/udp/239.254.5.24:6060.ts
+#EXTINF:-1 group-title="Muzyka",PoloTV
+http://193.24.244.60:1001/udp/239.254.5.25:6060.ts
+#EXTINF:-1 group-title="Muzyka",VOXmusicTV
+http://193.24.244.60:1001/udp/239.254.5.26:6060.ts
+#EXTINF:-1 group-title="Muzyka",Eska Rock TV
+http://193.24.244.60:1001/udp/239.254.5.27:6060.ts
+#EXTINF:-1 group-title="Ogolne",FokusTV
+http://193.24.244.60:1001/udp/239.254.5.28:6060.ts
+#EXTINF:-1 group-title="Muzyka",EskaTV
+http://193.24.244.60:1001/udp/239.254.5.29:6060.ts
+#EXTINF:-1 group-title="Ogolne",NowaTV
+http://193.24.244.60:1001/udp/239.254.5.31:6060.ts
+#EXTINF:-1 group-title="Ogolne",StarsTV
+http://193.24.244.60:1001/udp/239.254.5.38:6060.ts
+#EXTINF:-1 group-title="Ogolne",StarsTV HD
+http://193.24.244.60:1001/udp/239.254.5.39:6060.ts
+#EXTINF:-1 group-title="Film",BBC First
+http://193.24.244.60:1001/udp/239.254.5.43:6060.ts
+#EXTINF:-1 group-title="Ogolne",RedTOP HD
+http://193.24.244.60:1001/udp/239.254.5.44:6060.ts
+#EXTINF:-1 group-title="Ogolne",RedTOP 4K
+http://193.24.244.60:1001/udp/239.254.5.45:6060.ts
+#EXTINF:-1 group-title="Ogolne",TBN HD
+http://193.24.244.60:1001/udp/239.254.5.46:6060.ts
+#EXTINF:-1 group-title="Ogolne",RedCarpet TV HD
+http://193.24.244.60:1001/udp/239.254.5.53:6060.ts
+#EXTINF:-1 group-title="Ogolne",13TV HD
+http://193.24.244.60:1001/udp/239.254.5.56:6060.ts
+#EXTINF:-1 group-title="Informacje",News24
+http://193.24.244.60:1001/udp/239.254.5.59:6060.ts
+#EXTINF:-1 group-title="Dokument",National Geographic HD
+http://193.24.244.60:1001/udp/239.254.5.60:6060.ts
+#EXTINF:-1 group-title="Dokument",National Geographic Wild HD
+http://193.24.244.60:1001/udp/239.254.5.61:6060.ts
+#EXTINF:-1 group-title="Muzyka",Jazz
+http://193.24.244.60:1001/udp/239.254.5.67:6060.ts
+#EXTINF:-1 group-title="Informacje",wPolsce24
+http://193.24.244.60:1001/udp/239.254.5.101:6060.ts
+#EXTINF:-1 group-title="Informacje",wPolscePL UHD
+http://193.24.244.60:1001/udp/239.254.5.104:6060.ts
+#EXTINF:-1 group-title="Film",FX HD
+http://193.24.244.60:1001/udp/239.254.5.202:6060.ts
+#EXTINF:-1 group-title="Ogolne",SBN
+http://193.24.244.60:1001/udp/239.254.5.203:6060.ts
+#EXTINF:-1 group-title="Film",FX Comedy HD
+http://193.24.244.60:1001/udp/239.254.5.205:6060.ts
+#EXTINF:-1 group-title="Dzieci",Disney Channel HD
+http://193.24.244.60:1001/udp/239.254.5.206:6060.ts
+#EXTINF:-1 group-title="Dzieci",Disney XD
+http://193.24.244.60:1001/udp/239.254.5.207:6060.ts
+#EXTINF:-1 group-title="Dzieci",Disney Junior
+http://193.24.244.60:1001/udp/239.254.5.209:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.220
+http://193.24.244.60:1001/udp/239.254.5.220:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.221
+http://193.24.244.60:1001/udp/239.254.5.221:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.222
+http://193.24.244.60:1001/udp/239.254.5.222:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.223
+http://193.24.244.60:1001/udp/239.254.5.223:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.224
+http://193.24.244.60:1001/udp/239.254.5.224:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.225
+http://193.24.244.60:1001/udp/239.254.5.225:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.226
+http://193.24.244.60:1001/udp/239.254.5.226:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.227
+http://193.24.244.60:1001/udp/239.254.5.227:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.228
+http://193.24.244.60:1001/udp/239.254.5.228:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.229
+http://193.24.244.60:1001/udp/239.254.5.229:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.230
+http://193.24.244.60:1001/udp/239.254.5.230:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.231
+http://193.24.244.60:1001/udp/239.254.5.231:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.232
+http://193.24.244.60:1001/udp/239.254.5.232:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.233
+http://193.24.244.60:1001/udp/239.254.5.233:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.250
+http://193.24.244.60:1001/udp/239.254.5.250:6060.ts
+#EXTINF:-1 group-title="Ogolne",CH 5.252
+http://193.24.244.60:1001/udp/239.254.5.252:6060.ts
